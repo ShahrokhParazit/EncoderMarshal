@@ -5,4 +5,4 @@ cd EncoderMarshal
 
 pip3 install -r requirements.txt
 
-python3 encoder.py
+python3 Encoder.py
